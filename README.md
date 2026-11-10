@@ -2,7 +2,7 @@
 
 Hands-on notebooks for **From Scratch to Scale**, my Medium series on how large language models work and why they are expensive to run. Each post builds one idea from scratch in PyTorch, checks it against a reference implementation, and measures it.
 
-![From Scratch to Scale, Part 1: Attention](assets/part1_attention.png)
+![From Scratch to Scale, Part 1: Attention](part1_attention.png)
 
 ## Posts and notebooks
 
